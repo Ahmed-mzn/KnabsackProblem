@@ -1,4 +1,4 @@
-# Knabsack Problem
+# Knapsack Problem
 
 ### Implementation of several algorithms for solving 1/0 knapsack problem on Python.
 
